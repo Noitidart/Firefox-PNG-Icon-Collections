@@ -13,3 +13,4 @@ __Source__ [DeviantArt / TheAverageGeek :: Okami Firefox Icon](http://theaverage
 |  256 |     OS X, Windows    |         |
 |  512 |         OS X         |         |
 | 1024 |         OS X         |         |
+|  SVG |   Linux [optional]   |    X    |

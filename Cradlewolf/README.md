@@ -13,3 +13,4 @@ __Source__ [DeviantArt / ShigidiShwa :: Cradlewolf Icon](http://shigidishwa.devi
 |  256 |     OS X, Windows    |    X    |
 |  512 |         OS X         |         |
 | 1024 |         OS X         |    X    |
+|  SVG |   Linux [optional]   |         |

@@ -13,3 +13,4 @@ __Source__ [DeviantArt / dtafalonso :: Firefox Office 2013](http://dtafalonso.de
 |  256 |     OS X, Windows    |         |
 |  512 |         OS X         |    X    |
 | 1024 |         OS X         |    X    |
+|  SVG |   Linux [optional]   |         |
