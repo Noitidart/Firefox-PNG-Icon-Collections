@@ -1,0 +1,1 @@
+__Source__ [DeviantArt / Seahorsepip :: Firefox Elementary Icon](http://seahorsepip.deviantart.com/art/Firefox-elementary-icon-183301125)
