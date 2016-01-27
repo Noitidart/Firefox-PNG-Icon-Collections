@@ -1,13 +1,13 @@
-__Source__ [DeviantArt / Primofenax :: Minimal](http://primofenax.deviantart.com/art/icon-Minimal-Firefox-Icon-313618589)
+__Source__ [DeviantArt / Ion-Death :: Generic](http://ion-death.deviantart.com/art/Mozilla-Firefox-Offical-ly-recognized-Pony-Icon-305756308)
 
 ###### Missing Resolutions
 | Size |          OS          | Missing |
 |:----:|:--------------------:|:-------:|
-|  16  | Linux, OS X, Windows |    X    |
+|  16  | Linux, OS X, Windows |         |
 |  24  |    Linux, Windows    |    X    |
-|  32  |     OS X, Windows    |    X    |
-|  48  |    Linux, Windows    |    X    |
-|  64  |         OS X         |    X    |
+|  32  |     OS X, Windows    |         |
+|  48  |    Linux, Windows    |         |
+|  64  |         OS X         |         |
 |  96  |         Linux        |    X    |
 |  128 |     OS X, Windows    |    X    |
 |  256 |     OS X, Windows    |         |
